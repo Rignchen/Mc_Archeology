@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craft":{
+            "conditions": {
+                "recipe": "archeo:glue"
+            },
+            "trigger": "recipe_unlocked"
+        }
+    },
+    "rewards": {
+        "function": "archeo:craft/glue"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "glue":{
+            "trigger": "used_ender_eye"
+        }
+    },
+    "rewards": {
+        "function": "archeo:glue/trigger"
+    }
+}

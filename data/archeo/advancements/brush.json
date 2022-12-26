@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "archeo:brush"
+            }
+        }
+    },
+    "rewards": {
+        "function": "archeo:craft/brush"
+    }
+}

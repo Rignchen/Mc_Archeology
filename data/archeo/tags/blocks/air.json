@@ -1,0 +1,13 @@
+{
+    "values": [
+        "air",
+        "void_air",
+        "cave_air",
+        "grass",
+        "#archeo:vines",
+        "tall_grass",
+        "#flower_pots",
+        "water",
+        "#underwater_bonemeals"
+    ]
+}

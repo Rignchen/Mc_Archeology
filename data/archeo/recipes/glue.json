@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "slime_ball"
+        },{
+            "item": "slime_ball"
+        },{
+            "item": "water_bucket"
+        },{
+            "item": "bone_meal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 6
+    }
+}

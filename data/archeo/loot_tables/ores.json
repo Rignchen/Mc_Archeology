@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:copper_ingot",
+          "weight": 20,
+          "quality": -10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "weight": 20,
+          "quality": 0
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_nugget",
+          "weight": 20,
+          "quality": 0
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 10,
+          "quality": 4
+        }
+      ]
+    }
+  ]
+}

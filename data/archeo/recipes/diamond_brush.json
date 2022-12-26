@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " F ",
+        "DID",
+        "DID"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
